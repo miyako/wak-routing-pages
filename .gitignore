@@ -1,0 +1,14 @@
+
+*.WakTDef
+
+*.txt
+
+*.waData
+
+*.waLog
+
+*.waSym
+
+*.waSymData
+
+*.Match
