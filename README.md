@@ -3,6 +3,10 @@ wak-routing-pages
 
 A module to query and modify custom [views](http://doc.wakanda.org/Architecture-of-Wakanda-Applications/Page/Routing-Pages.300-1025560.en.html) in Wakanda.
 
+![obsolete-word-black-frame-word-obsolete-word-black-frame-d-rendering-123942590](https://user-images.githubusercontent.com/1725068/78463940-29122280-771e-11ea-8be8-a7830725403e.jpg)
+
+Old Wakanda.
+
 Install
 -------
 1. Install the Modules/routing/index.js file to the solution level.
